@@ -43,7 +43,7 @@
 
 ## アカウント・タイプごとの準備事項
 
-- [(1) IBM Cloud アカウントをお持ちでないお客様](https://github.com/kissyy/cis-handson-sandbox#1-ibm-cloud-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E3%81%8A%E6%8C%81%E3%81%A1%E3%81%A7%E3%81%AA%E3%81%84%E3%81%8A%E5%AE%A2%E6%A7%98)
+- [(1) IBM Cloud アカウントをお持ちでないお客様](#1-ibm-cloud-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E3%81%8A%E6%8C%81%E3%81%A1%E3%81%A7%E3%81%AA%E3%81%84%E3%81%8A%E5%AE%A2%E6%A7%98)
 - [(2) IBM Cloud アカウントタイプが「ライト(無料)」のお客様](https://github.com/kissyy/cis-handson-sandbox#2-ibm-cloud-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97%E3%81%8C%E3%83%A9%E3%82%A4%E3%83%88%E7%84%A1%E6%96%99%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98) 
 - [(3) すでに IBM Cloud アカウントが「トライアル」「従量課金 (PAYG) 」「サブスクリプション」タイプのお客様](https://github.com/kissyy/cis-handson-sandbox#3-%E3%81%99%E3%81%A7%E3%81%AB-ibm-cloud-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%8C%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%AB%E5%BE%93%E9%87%8F%E8%AA%B2%E9%87%91-payg-%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98) 
 
