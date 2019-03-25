@@ -50,7 +50,7 @@
 ### (1) IBM Cloud アカウントをお持ちでないお客様
 
 [https://cloud.ibm.com/registration/](https://cloud.ibm.com/registration/) から IBM Cloud アカウント（「ライト(無料)」）を作成してください。
-その後、アカウント・タイプが「ライト(無料)」であることを確認し、[(2)](https://github.com/kissyy/cis-handson-sandbox/blob/0-khayama-pre-requirements/README.md#2-ibm-cloud-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97%E3%81%8C%E3%83%A9%E3%82%A4%E3%83%88%E7%84%A1%E6%96%99%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98) の案内に従ってください。
+その後、アカウント・タイプが「ライト(無料)」であることを確認し、[(2)](https://github.com/kissyy/cis-handson-sandbox#2-ibm-cloud-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97%E3%81%8C%E3%83%A9%E3%82%A4%E3%83%88%E7%84%A1%E6%96%99%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98) の案内に従ってください。
 
 ![アカウントの登録](img/account_registration.png)
 
