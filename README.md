@@ -7,7 +7,7 @@
 本ハンズオンは、仮想サーバー、物理サーバー、コンテナ環境を問わず、インターネットからアクセスできる Web アプリケーションのシステム設計、開発、運用およびセキュリティーご担当者様向けに有用な内容です。
 
 0. [事前準備](#事前準備)
-1. a
+1. [テスト用無料ドメインの取得手順](https://github.com/kissyy/cis-handson-sandbox/blob/master/how-to-get-test-free-domain.md)
 2. a
 3. a
 4. a
