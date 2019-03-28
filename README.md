@@ -52,6 +52,8 @@
 [https://cloud.ibm.com/registration/](https://cloud.ibm.com/registration/) から IBM Cloud アカウント（「ライト(無料)」）を作成してください。
 その後、アカウント・タイプが「ライト(無料)」であることを確認し、[(2)](#2-ibm-cloud-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97%E3%81%8C%E3%83%A9%E3%82%A4%E3%83%88%E7%84%A1%E6%96%99%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98) の案内に従ってください。
 
+>画面操作に関する動画はこちら：[IBM Cloud のライトアカウントを作成しよう - YouTube](https://www.youtube.com/watch?v=Krn1jQ4iy_s&list=PLzpeuWUENMK28zoOXBcf4t8KLlIkteOmz&index=1)
+
 ![アカウントの登録](img/account_registration.png)
 
 ### (2) IBM Cloud アカウントタイプが「ライト(無料)」のお客様
@@ -59,6 +61,8 @@
 IBM Cloud アカウントタイプを「従量課金 (PAYG) 」にアップグレードしてください。
 <u>クレジットカードを登録いただくことで、「従量課金 (PAYG) 」へアップグレードできます。</u>
 その後、アカウント・タイプが「従量課金 (PAYG)」であることを確認し、[(3)](#3-%E3%81%99%E3%81%A7%E3%81%AB-ibm-cloud-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%8C%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%AB%E5%BE%93%E9%87%8F%E8%AA%B2%E9%87%91-payg-%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98) の案内に従ってください。
+
+>画面操作に関する動画はこちら：[従量課金アカウントへのアップグレード - YouTube](https://www.youtube.com/watch?v=uFCSvAKapr0&list=PLzpeuWUENMK28zoOXBcf4t8KLlIkteOmz&index=3)
 
 「ライト」から「従量課金 (PAYG) 」にアップグレードするには、
 「ダッシュボード」画面から「アカウントのアップグレード」をクリックする、
